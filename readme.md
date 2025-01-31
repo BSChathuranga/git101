@@ -2,4 +2,6 @@
 
 
 #Add new good lines
-#I am the good developer who worked from correctly
+#This is the bad developer who worked from uncorrectly
+
+#And also add su function 
